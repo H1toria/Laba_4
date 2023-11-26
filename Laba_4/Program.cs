@@ -38,4 +38,3 @@ foreach (int i in orderedArr)
     Console.Write($"{i} "); 
     Console.Write("hi");
 }
-   
