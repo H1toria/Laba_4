@@ -34,4 +34,8 @@ var orderedArr = from i in arr
                  orderby i
                  select i;
 foreach (int i in orderedArr)
-    Console.Write($"{i} ");
+{
+    Console.Write($"{i} "); 
+    Console.Write("hi");
+}
+   
